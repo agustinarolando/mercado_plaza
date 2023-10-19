@@ -1,0 +1,45 @@
+{
+    "vendedores": [
+        {
+            "id": 1,
+            "nombre": "Agustina Rolando",
+            "correo": "agustinarolando@gmail.com",
+            "telefono": 92383048,
+            "locales": [
+                {
+                    "id": 1,
+                    "nombre": "Fresh MArket",
+                    "direccion": {
+                        "calle": "Agraciada",
+                        "numero": 3665,
+                        "barrio": "Montevideo"
+                    },
+                    "telefono": 23048755,
+                    "productos": [
+                        {
+                            "id": 101,
+                            "nombre": "Papas Fritas Lays",
+                            "categoria": "Alimentos",
+                            "peso": "100 gr",
+                            "precio": 95,
+                            "unidad": "UYU",
+                            "cantVendidos": 480,
+                            "cantDisponible": 520
+                        },
+                        {
+                            "id": 102,
+                            "nombre": "Doritos",
+                            "categoria": "Alimentos",
+                            "peso": "150 gr",
+                            "precio": 120,
+                            "unidad": "UYU",
+                            "cantVendidos": 250,
+                            "cantDisponible": 750
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}

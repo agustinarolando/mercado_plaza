@@ -1,0 +1,23 @@
+@font-face {
+    font-family: gilgan;
+    src: url(Gilgan.otf);
+}
+
+@font-face {
+    font-family: buttershine;
+    src: url(BUTTERSHINE\ SERIF.otf);
+}
+
+.gilgan {
+    font-family: gilgan;
+}
+
+.buttershine {
+    font-family: buttershine;
+}
+
+.header {
+    background-color: rgb(65, 119, 61); 
+    height: 300px;
+    text-align: center;
+}
